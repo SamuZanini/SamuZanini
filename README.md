@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuZanini&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuZanini&theme=tokyonight&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=SamuZanini&theme=dark&hide_border=false" />
 </div>
 
 ## 🍀 Vamos Criar Algo?
