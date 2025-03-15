@@ -96,7 +96,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuZanini&theme=tokyonight&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SamuZanini&theme=tokyonight&hide_border=false" />
 </div>
 
 ## 🍀 Vamos Criar Algo?
