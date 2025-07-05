@@ -7,19 +7,19 @@
 
 <br>
 
-```
-                                        public class HelloWorld {
-                                            public static void main(String[] args) {
-                                                System.out.println("Hello World");
-                                            }
-```
-
-<br>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Seja+Bem-Vindo(a)+ao+Meu+Perfil!;Desenvolvedor+FullStack;Sempre+Aprendendo+Coisas+Novas!"></div>
 
 <br>
+
+```java
+
+                                           public class HelloWorld {
+                                               public static void main(String[] args) {
+                                                   System.out.println("Hello World");
+                                               }
+
+```
 
 ### 🧙‍♂️ O que eu faço
 
@@ -79,13 +79,13 @@
 
 </div>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuZanini&theme=tokyonight&hide_border=false" />
 </div>
 
-## 🍀 Vamos Criar Algo?
+### 🍀 Vamos Criar Algo?
 
 <img align="right" width="250px" src="cafezinho.png" />
 
