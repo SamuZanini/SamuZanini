@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&max-width=435&lines=Seja+Bem-Vindo(a)+ao+Meu+Perfil!;Desenvolvedor+FullStack;Sempre+Aprendendo+Coisas+Novas!"></div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Seja+Bem-Vindo(a)+ao+Meu+Perfil!;Desenvolvedor+FullStack;Sempre+Aprendendo+Coisas+Novas!"></div>
 
 <br>
 
@@ -43,52 +43,38 @@
 ### Frontend 🪐
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" max-height="40" height="40" alt="react logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" max-height="40" height="40" alt="angular logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" max-height="40" height="40" alt="nextjs logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" max-height="40" height="40" alt="typescript logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" max-height="40" height="40" alt="javascript logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" max-height="40" height="40" alt="tailwindcss logo"  />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </div>
 
 ### Backend ♨️
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" max-height="40" height="40" alt="java logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" max-height="40" height="40" alt="python logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" max-height="40" height="40" alt="spring logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" max-height="40" height="40" alt="nodejs logo"  />
-    <img max-width="12" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </div>
 
 ### Database & Cloud ☁️
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" max-height="40" height="40" alt="mysql logo"  />
-    <img max-width="12" />
-    <img src="https://skillicons.dev/icons?i=aws" max-height="40" height="40" alt="amazonwebservices logo"  />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </div>
 
 ### Tools & Others 🛠️
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" max-height="40" height="40" alt="git logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" max-height="40" height="40" alt="linux logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" max-height="40" height="40" alt="windows8 logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" max-height="40" height="40" alt="vscode logo"  />
-    <img max-width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" max-height="40" height="40" alt="intellij logo"  />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 </div>
 
 </div>
@@ -112,10 +98,10 @@ Estou sempre aberto para novos projetos. Se você busca:
 ### 📬 Entre em contato:
 
 <div>
-<a href="mailto:samuelzanini.trabalho@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" max-width="52" max-height="40" height="40" alt="gmail logo"  /></a>
-<a href="https://www.linkedin.com/in/samuel-zanini-campos-vanoni-b2834b268/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" max-height="40" height="40" alt="linkedin logo"  />
-</div></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</div>
 
-<img max-width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22293d&max-height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22293d&height=120&section=footer"/>
 
 </div>
