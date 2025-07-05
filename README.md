@@ -8,10 +8,10 @@
 <br>
 
 ```
-                                    public class HelloWorld {
-                                        public static void main(String[] args) {
-                                            System.out.println("Hello World");
-                                        }
+                public class HelloWorld {
+                    public static void main(String[] args) {
+                        System.out.println("Hello World");
+                    }
 ```
 
 <br>
@@ -96,7 +96,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SamuZanini&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuZanini&theme=tokyonight&hide_border=false" />
 </div>
 
 ## 🍀 Vamos Criar Algo?
