@@ -98,8 +98,8 @@ Estou sempre aberto para novos projetos. Se você busca:
 ### 📬 Entre em contato:
 
 <div>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelzanini.trabalho@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-zanini-campos-vanoni-b2834b268/)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22293d&height=120&section=footer"/>
