@@ -11,18 +11,15 @@
 
 <br>
 
-```java
+<br>
 
-                                           public class HelloWorld {
-                                               public static void main(String[] args) {
-                                                   System.out.println("Hello World");
-                                               }
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuZanini&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
-```
+<br>
 
 ### 🎯 Meus Objetivos
-
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuZanini&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 - 📈 Criar soluções pro dia a dia
 - 🪄 Criar aplicativos pra se divertir
