@@ -1,14 +1,13 @@
-# ✨ Samuel Zanini | Fullstack Developer
+# ✨ Samuel Zanini | Just for fun!
 
 <br>
 
-<h3 align="center">💻  Desenvolvedor em formação com 22 anos,
- cursando Análise e Desenvolvimento de Sistemas! :3</h3>
+<h3 align="center">💻 Faço alguns projetos pra distrair às vezes :3</h3>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Seja+Bem-Vindo(a)+ao+Meu+Perfil!;Desenvolvedor+FullStack;Sempre+Aprendendo+Coisas+Novas!"></div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Seja+Bem-Vindo(a)+ao+Meu+Perfil!;Desenvolvedor+Casual;Just+for+Fun!"></div>
 
 <br>
 
@@ -21,20 +20,13 @@
 
 ```
 
-### 🧙‍♂️ O que eu faço
-
-- 💫 Criação de interfaces
-- 🤖 Arquitetura robusta de backend
-- ☕ Domínio em tecnologias como Java, SQL, Spring, Next.js, Node.js e Angular
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuZanini&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
 ### 🎯 Meus Objetivos
 
-- 📈 Criar soluções robustas, escaláveis e otimizadas
-- 🎻 Priorizar a performance
-- 🪄 Criar aplicativos com facilidade de manutenção
-- 🏆 Excelência no desenvolvimento de software.
+- 📈 Criar soluções pro dia a dia
+- 🪄 Criar aplicativos pra se divertir
+- 🎻 Pra passar o tempo.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuZanini&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 ## 💻 Tech Stack
 
@@ -87,20 +79,11 @@
 
 ### 🍀 Vamos Criar Algo?
 
-<img align="right" width="250px" src="cafezinho.png" />
+<img align="center" width="250px" src="cafezinho.png" />
 
-Estou sempre aberto para novos projetos. Se você busca:
-
-- 🪄 Uma aplicação otimizada e escalável
-- 🎨 Design moderno
-- 🤖 Soluções tecnológicas
-
-### 📬 Entre em contato:
+### 📬 Linkedin:
 
 <div>
-<a href="mailto:samuelzanini.trabalho@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 <a href="https://www.linkedin.com/in/samuel-zanini-campos-vanoni-b2834b268/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
