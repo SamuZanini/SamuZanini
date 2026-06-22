@@ -2,12 +2,12 @@
 
 <br>
 
-<h3 align="center">💻 Faço alguns projetos pra distrair às vezes :3</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Seja+Bem-Vindo(a)+ao+Meu+Perfil!;Desenvolvedor+Casual;Just+for+Fun!"></div>
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Seja+Bem-Vindo(a)+ao+Meu+Perfil!;Desenvolvedor+Casual;Just+for+Fun!"></div>
+<h3 align="center">💻 Faço alguns projetos pra distrair às vezes :3</h3>
 
 <br>
 
@@ -22,11 +22,20 @@
 
 ### 🎯 Meus Objetivos
 
+<table>
+  <tr>
+    <td>
+
 - 📈 Criar soluções pro dia a dia
 - 🪄 Criar aplicativos pra se divertir
 - 🎻 Pra passar o tempo.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuZanini&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuZanini&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ## 💻 Tech Stack
 
@@ -76,10 +85,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuZanini&theme=tokyonight&hide_border=false" />
 </div>
-
-### 🍀 Vamos Criar Algo?
-
-<img align="center" width="250px" src="cafezinho.png" />
 
 ### 📬 Linkedin:
 
