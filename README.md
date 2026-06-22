@@ -22,15 +22,13 @@
 
 ### 🎯 Meus Objetivos
 
-<div style="float: right;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuZanini&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuZanini&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 - 📈 Criar soluções pro dia a dia
 - 🪄 Criar aplicativos pra se divertir
 - 🎻 Pra passar o tempo.
 
-<br clear="right" />
+<br clear="both" />
 
 ## 💻 Tech Stack
 
